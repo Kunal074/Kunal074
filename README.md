@@ -104,9 +104,9 @@
 
 <div align="center">
 
-![Kunal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kunal074&show_icons=true&theme=tokyonight&hide_border=true)
+![Kunal's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Kunal074&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal074&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Kunal074&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kunal074&theme=tokyonight&hide_border=true)
 
