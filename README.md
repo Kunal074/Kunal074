@@ -21,7 +21,7 @@
 - 🚀 Shipped **[clipdrop.online](https://clipdrop.online)** — file sharing + 15+ conversion tools
 - 📍 Based in **Raipur, Chhattisgarh**
 - 💬 Ask me about **React, Node.js, MongoDB, REST APIs**
-- ⚡ Fun fact: I spent 5 years selling phones before I started building software for them
+- ⚡ Fun fact: I spent 5 years selling phones before I started building software
 
 ---
 
