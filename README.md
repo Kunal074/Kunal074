@@ -111,7 +111,8 @@
 
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Kunal074&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kunal074&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Kunal074&theme=github_dark&hide_border=false)
+
 
 </div>
 
