@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hey, I'm Kunal Sahu 👋
-### Full Stack Developer (Web + App) | MERN Stack | React Native
+### Full Stack Developer (Web + App) | MERN/PERN Stack | React Native
 
 *Code. Sleep. Repeat. ⚡*
 
